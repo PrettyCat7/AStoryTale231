@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500113759846",
+    "project_id": "astorytale-53806",
+    "storage_bucket": "astorytale-53806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500113759846:android:e68b43730b0ec2d0a7d7a7",
+        "android_client_info": {
+          "package_name": "com.example.astorytale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJDI9LNwmArtSiAiBXeKasqpuyqnZ-Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
